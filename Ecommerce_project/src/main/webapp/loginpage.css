@@ -1,0 +1,89 @@
+.register{
+  background-color: rgb(227, 224, 224);
+  height: auto;
+  padding-left: 300px;
+  padding-top: 100px;
+ 
+}
+
+
+    .email{
+      width: 200px;
+      margin-bottom: 15px;
+      font-weight: bold;
+    
+    }
+   
+    .pass1 {
+      margin-right: 30px;
+      font-weight: bold;
+    }
+    .pass{
+      display: flex;
+    }
+
+
+
+    button{
+      font-weight: bold;
+      color: white;
+      margin-top: 40px;
+      font-size: 15px;
+      background-color: orange;
+      border: none;
+      border-radius: 4px;
+      padding: 6px 25px;
+
+    }
+    .button-1{
+      padding-bottom: 100px;
+     
+    }
+    button{
+      width: 320px;
+      height: 40px;
+      margin-left: 40px;
+     
+    }
+    a{
+      color: blue;
+    }
+    .img1{
+      background-image: url("bg_1.jpg.webp");
+      background-size: cover;
+      background-position: center;
+      padding-bottom: 300px;
+      width: 300px;
+      float: right;
+      height: 250px;
+      /* margin: 10px; */
+    }
+    input{
+      /* font-size: 18px; */
+      padding: 8px 45px 8px 10px;
+    }
+    
+    .f-anchor{
+      padding-left: 10px;
+      color: rgb(44, 29, 212);
+      
+    }
+    .forget{
+      font-weight: 100;
+    }
+    .pass2{
+      display: flex;
+      margin-left: 210px;
+    }
+    .need{
+      margin-top: 20px;
+      margin-left: 80px;
+      font-weight: 50;
+    }
+    .dont-a{
+      padding-left: 10px;
+    }
+
+
+    
+  
